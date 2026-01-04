@@ -18,5 +18,12 @@ This repository contains the complete implementation of a multimodal machine lea
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/<TavisheeAgrwal>/<Satellite-Imagery-Based-Property-Evaluation>.git
+cd <Satellite-Imagery-Based-Property-Evaluation>
+
+2️⃣ Install Dependencies
+
+It is recommended to use Google Colab.
+If running locally, install the required libraries:
+
+pip install numpy pandas matplotlib seaborn scikit-learn torch torchvision xgboost opencv-python
