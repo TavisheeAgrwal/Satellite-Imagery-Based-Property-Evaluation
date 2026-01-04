@@ -4,7 +4,7 @@ This repository contains the complete implementation of a multimodal machine lea
 The project combines deep learning (CNNs) with gradient boosting to improve prediction accuracy.
 
 ## 📂 Repository Structure
-├── data_fetcher.py # Script to load and prepare satellite images
+├── data_fetcher.py # Script to load and prepare satellite images.
 ├── preprocessing.ipynb # Data cleaning, EDA, and feature engineering
 ├── model_training.ipynb # Model training (Tabular, CNN, Multimodal)
 ├── 23119050_final.csv # Final prediction file (id, predicted_price)
