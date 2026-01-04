@@ -2,6 +2,7 @@
 
 This repository contains the complete implementation of a multimodal machine learning system for predicting house prices using **tabular housing attributes** and **satellite imagery**.  
 The project combines deep learning (CNNs) with gradient boosting to improve prediction accuracy.
+---
 
 ## 📂 Repository Structure
 ├── data_fetcher.py # Script to load and prepare satellite images.
@@ -12,3 +13,12 @@ The project combines deep learning (CNNs) with gradient boosting to improve pred
 ├── README.md # Project instructions
 ├── README.md # Project instructions
 
+
+---
+
+## ⚙️ Environment Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/<username>/<repository-name>.git
+cd <repository-name>
