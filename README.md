@@ -30,3 +30,20 @@ If running locally, install the required libraries:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn torch torchvision xgboost opencv-python
 ```
+## How to Run the Project
+# Step 1: Data Preprocessing & EDA
+
+Open and run:
+
+preprocessing.ipynb
+
+
+This notebook:
+
+Loads the CSV datasets
+
+Performs EDA and visualization
+
+Cleans data and creates engineered features
+
+Saves processed datasets
