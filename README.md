@@ -6,8 +6,8 @@ This repository contains the complete implementation of a multimodal machine lea
 ## 📂 Repository Structure
 ```text
 ├── data_fetcher.py               # Script to load and prepare satellite images
-├── preprocessing.ipynb           # Data cleaning, EDA, and feature engineering
-├── model_training.ipynb          # Model training (Tabular, CNN, Multimodal)
+├── preprocessing.ipynb           # Data cleaning, EDA, and feature engineering and baseline prediction
+├── model_training.ipynb          # Model training (Multimodal)
 ├── 23119050_final.csv            # Final prediction file (id, predicted_price)
 ├── 23119050_report.pdf           # Final project report (PDF)
 ├── README.md                     # Project instructions
